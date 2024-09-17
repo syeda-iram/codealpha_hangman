@@ -1,7 +1,7 @@
 import random
 
 #create a list of words
-word_list = ['UMBRELLA', 'TELEPHONE', 'PLATE', 'CUPBOARD', 'MOBILE', 'ICE', 'PHONE', 'LAPTOP', 'COMPUTER', ]
+word_list = ['UMBRELLA', 'TELEPHONE', 'PLATE', 'CUPBOARD', 'MOBILE', 'ICE', 'PHONE', 'LAPTOP', 'COMPUTER', 'LIGHT']
 
 guesses = 5    #total number of guesses
 
